@@ -7,7 +7,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        Hola, Ramis!
+        Hola, Menorca!
     </form>
 </body>
 </html>
